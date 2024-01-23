@@ -1,5 +1,4 @@
-# Portfólio Projeto de Dados
-<b>Portfólio de Projetos de Dados</b>
+ Portfólio Projeto de Dados
 
 Bem-vindo ao meu Portfólio de Projetos de Dados!
 
